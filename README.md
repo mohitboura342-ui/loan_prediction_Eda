@@ -104,6 +104,7 @@ This project demonstrates how Exploratory Data Analysis (EDA) can help understan
 # 👨‍💻 Author
 
 ## Mohit Boura  
+
 ### Data Scientist
 
 Passionate about Data Analytics, Data Science, and building data-driven solutions using Python, Machine Learning, and Visualization tools.
